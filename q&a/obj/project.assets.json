@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\milan\\OneDrive - Mediacollege Amsterdam\\bewijzenmap\\periode1.1\\pro2\\pro2achievements\\Achievement2\\Achievement2.csproj",
-      "projectName": "Achievement2",
-      "projectPath": "C:\\Users\\milan\\OneDrive - Mediacollege Amsterdam\\bewijzenmap\\periode1.1\\pro2\\pro2achievements\\Achievement2\\Achievement2.csproj",
+      "projectUniqueName": "C:\\Users\\milan\\OneDrive - Mediacollege Amsterdam\\bewijzenmap\\periode1.1\\pro2\\pro2achievements\\q&a\\q&a.csproj",
+      "projectName": "q&a",
+      "projectPath": "C:\\Users\\milan\\OneDrive - Mediacollege Amsterdam\\bewijzenmap\\periode1.1\\pro2\\pro2achievements\\q&a\\q&a.csproj",
       "packagesPath": "C:\\Users\\milan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\milan\\OneDrive - Mediacollege Amsterdam\\bewijzenmap\\periode1.1\\pro2\\pro2achievements\\Achievement2\\obj\\",
+      "outputPath": "C:\\Users\\milan\\OneDrive - Mediacollege Amsterdam\\bewijzenmap\\periode1.1\\pro2\\pro2achievements\\q&a\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
