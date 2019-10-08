@@ -10,6 +10,8 @@ namespace q_a
 
 
 
+
+
             string a;
             Console.WriteLine("Wat doe jij graag in je vrije tijd?");
             a = Console.ReadLine();

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "If_Only_That_Were_True/1.0.0": {
+        "runtime": {
+          "If_Only_That_Were_True.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "If_Only_That_Were_True/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
