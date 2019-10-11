@@ -26,7 +26,7 @@ namespace If_Only_That_Were_True
             vraag1:
                 String vraag1 = Console.ReadLine();
                 
-                if (vraag1 == "Ja" || vraag1 == "ja")
+                if (vraag1 == "Ja" && vraag1 == "Ja" || vraag1 == "ja")
                 {
                     Console.Clear();
                     Console.WriteLine("Top!");
