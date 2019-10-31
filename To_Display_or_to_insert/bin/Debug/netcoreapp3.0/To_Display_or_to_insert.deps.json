@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "To_Display_or_to_insert/1.0.0": {
+        "runtime": {
+          "To_Display_or_to_insert.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "To_Display_or_to_insert/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
